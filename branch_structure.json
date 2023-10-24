@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "cli",
+    "hardhat-ignition",
+    "hardhat-viem",
+    "inherited-edge-case",
+    "main",
+    "origin",
+    "subgraph-package",
+    "wagmi-v2"
+  ],
+  "parent": {
+    "cli": "main",
+    "hardhat-ignition": "main",
+    "hardhat-viem": "main",
+    "inherited-edge-case": "main",
+    "main": null,
+    "origin": "main",
+    "subgraph-package": "main",
+    "wagmi-v2": "main"
+  },
+  "order": [
+    "main",
+    "cli",
+    "hardhat-ignition",
+    "hardhat-viem",
+    "inherited-edge-case",
+    "origin",
+    "subgraph-package",
+    "wagmi-v2"
+  ]
+}
